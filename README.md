@@ -6,5 +6,6 @@ Build a simple desktop pet with python
 激情开始准备代码 
 
 library准备 tkinter在python里叫tk :)
+
 `pip install pyautogui pillow tk`
 
